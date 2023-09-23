@@ -2,10 +2,11 @@ This is some information on the background of this project and my experience of 
 
 This project started when I wanted to build something with the skills that I had learnt using Python. This was a project that included most of the skills that I had learnt including:
 
-Functions
-Variables
-For loops
-Modules
+- Functions 
+- Variables 
+- For loops 
+- Modules 
+
 I also wanted this to be a project that gave me a new tool and would automate and enhance an important task.
 
 The main premise of the program is that it generates a password based upon the chosen preferences of the user. The user is given the choice of the amount of characters used, whether there are upper case letters or not, if there are numbers or not and if there are special characters or not.
