@@ -5,7 +5,10 @@ This project started when I wanted to build something with the skills that I had
 - Functions 
 - Variables 
 - For loops 
-- Modules 
+- Modules
+- Files and folders
+- String formatting
+- Method lists
 
 I also wanted this to be a project that gave me a new tool and would automate and enhance an important task.
 
