@@ -16,4 +16,6 @@ The main premise of the program is that it generates a password based upon the c
 
 Afterwards, the program will generate a string based upon these choices and ask the user if they are happy with it. If they reply 'no' then they are taken to the beginning of the program. If they reply 'yes', then the use is asked to name the password with a small acronym. The password is then stored in a notepad file on a new line in that file. The password is then copied to the clipboard so that it can be pasted into an online form if needed.
 
+I have also adapted the program into a 'quick' version so that it generates a password straightaway by saying 'yes' to all criteria, and making the password 20 characters long.
+
 I would say that this was the first thing I created of use using my newly aqcuired skills in Python. It may not be exciting or original as a project idea, but I remain very proud of it.
